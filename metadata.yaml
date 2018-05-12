@@ -1,0 +1,41 @@
+_repo: The-Queen-s-Matrimonial-Ladderin-Verse-With-Eighteen-other-Cuts_21565
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hone, William
+    alias: Cecil, John
+    birthdate: 1780
+    deathdate: 1842
+    gutenberg_agent_id: '42795'
+    url: http://www.gutenberg.org/2009/agents/42795
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2014-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Caroline, Queen, consort of George IV, King of Great Britain, 1768-1821'
+- !lcc 'DA'
+- !lcsh 'George IV, King of Great Britain, 1762-1830'
+- !lcsh 'Political satire, English'
+- !lcsh 'Great Britain -- Politics and government -- 1820-1830'
+title: "The Queen's Matrimonial Ladder\r\nA National Toy, With Fourteen Step Scenes;\
+  \ and Illustrations in Verse, With Eighteen other Cuts"
+url: http://www.gutenberg.org/ebooks/21565
