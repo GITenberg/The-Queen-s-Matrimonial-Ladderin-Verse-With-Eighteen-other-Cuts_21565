@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '42795'
     url: http://www.gutenberg.org/2009/agents/42795
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21565#The-Queen-s-Matrimonial-Ladderin-Verse-With-Eighteen-other-Cuts
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2014-01-14'
 gutenberg_type: Text
